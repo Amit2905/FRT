@@ -22,7 +22,7 @@ Azure Project Link https://proud-ocean-0220a5910.2.azurestaticapps.net/
 ![image](https://user-images.githubusercontent.com/72159431/201180119-2739d6d4-a7db-4195-9199-f7815b684e9f.png)
 
 
-## Congtac us Page
+## Contact us Page
 
 ![image](https://user-images.githubusercontent.com/72159431/201180185-141ecdc9-92db-436c-a4e5-2de0bc82db3c.png)
 
